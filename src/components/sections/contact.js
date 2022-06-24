@@ -1,7 +1,8 @@
 import React, { useEffect, useRef } from 'react';
 import styled from 'styled-components';
-import { srConfig, email } from '@config';
+import { srConfig } from '@config';
 import sr from '@utils/sr';
+import { Icon } from '@components/icons';
 import { usePrefersReducedMotion } from '@hooks';
 
 const StyledContactSection = styled.section`
@@ -38,6 +39,11 @@ const StyledContactSection = styled.section`
   .email-link {
     ${({ theme }) => theme.mixins.bigButton};
     margin-top: 50px;
+    margin-left: 20px;
+    svg {
+      width: 16px;
+      height: auto;
+    }
   }
 `;
 
@@ -60,12 +66,15 @@ const Contact = () => {
       <h2 className="title">Get In Touch</h2>
 
       <p>
-        Although I’m not currently looking for any new opportunities, my inbox is always open.
-        Whether you have a question or just want to say hi, I’ll try my best to get back to you!
+        Linked or Twitter, my DMs are always open. I love to discuss ideas so if you have one or if
+        you have a question or just want to say hi, I’ll try my best to get back to you!
       </p>
 
-      <a className="email-link" href={`mailto:${email}`}>
-        Say Hello
+      <a className="email-link" href="https://www.linkedin.com/in/shailendra-sahu-a483375b/">
+        <Icon name="Linkedin" />
+      </a>
+      <a className="email-link" href="https://twitter.com/Shail_2302_">
+        <Icon name="Twitter" />
       </a>
     </StyledContactSection>
   );

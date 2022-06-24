@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { CSSTransition, TransitionGroup } from 'react-transition-group';
 import styled from 'styled-components';
+import { email } from '@config';
 import { navDelay, loaderDelay } from '@utils';
 import { usePrefersReducedMotion } from '@hooks';
 // import { email } from '@config';
@@ -64,8 +65,8 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building exceptional user experiences. Currently,
-        I’m focused on building India's biggest crypto exchange at{' '}
+        I’m a software engineer and crypto enthusiast specialized in building exceptional user
+        experiences. Currently, I’m focused on building India's biggest crypto exchange at{' '}
         <a href="https://wazirx.com/" target="_blank" rel="noreferrer">
           WazirX
         </a>
@@ -74,12 +75,8 @@ const Hero = () => {
     </>
   );
   const five = (
-    <a
-      className="email-link"
-      href="https://www.newline.co/courses/build-a-spotify-connected-app"
-      target="_blank"
-      rel="noreferrer">
-      Check out my course!
+    <a className="email-link" href={`mailto:${email}`} target="_blank" rel="noreferrer">
+      Let's Connect
     </a>
   );
 

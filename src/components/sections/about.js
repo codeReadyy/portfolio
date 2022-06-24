@@ -135,10 +135,18 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Shailendra and I enjoy playing with my sweet daughter. I prefer
-              CryptoBee as my alias in Crypto space. My interest in web development started back in
-              2013 when I edited few charts using highcharts and then I realize the power of
+              Hello! My name is Shailendra and I enjoy playing with my sweet little daughter. I
+              prefer CryptoBee as my alias in Crypto space. My interest in web development started
+              back in 2013 when I edited few charts using highcharts and then I realize the power of
               Javascript!
+            </p>
+
+            <p>
+              Back in 2017, I taught few under privileged kids for one whole year being a Valunteer
+              at <a href="https://makeadiff.in/">Make a difference</a> there I have realised that
+              fulfilling a kid’s wish is one of the most joyous feeling you can ever get. If you
+              want to feel the same, join <a href="https://makeadiff.in/joinus/">MAD</a> community
+              its <b>#NeverToLate</b> to make a difference.
             </p>
 
             <p>
@@ -146,19 +154,10 @@ const About = () => {
               <a href="https://www.emtecinc.com/">an IT strategy and consulting firm</a>,{' '}
               <a href="https://baxterplanning.com/">a supply chain service provider</a>,{' '}
               <a href="https://www.db.com/">a leading german bank</a>, and{' '}
-              <a href="https://www.morganstanley.com/">a gloabl investment bank</a>. . My main focus
+              <a href="https://www.morganstanley.com/">a gloabl investment bank</a>. My main focus
               these days is building India's biggest crypto exchange at{' '}
               <a href="https://www.wazirx.com/">WazirX</a>.
             </p>
-
-            {/* <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
-            </p> */}
 
             <p>Here are a few technologies I’ve been working with recently:</p>
           </div>
