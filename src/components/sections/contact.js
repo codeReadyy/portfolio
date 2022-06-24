@@ -66,8 +66,8 @@ const Contact = () => {
       <h2 className="title">Get In Touch</h2>
 
       <p>
-        Linked or Twitter, my DMs are always open. I love to discuss ideas so if you have one or if
-        you have a question or just want to say hi, I’ll try my best to get back to you!
+        I love to discuss ideas, so if you have one or if you have a question or want to say hi,
+        drop me a message; my DMs are always open. I’ll try my best to get back to you!
       </p>
 
       <a className="email-link" href="https://www.linkedin.com/in/shailendra-sahu-a483375b/">

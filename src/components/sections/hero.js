@@ -65,7 +65,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer and crypto enthusiast specialized in building exceptional user
+        I’m a software engineer and crypto enthusiast specialising in building exceptional user
         experiences. Currently, I’m focused on building India's biggest crypto exchange at{' '}
         <a href="https://wazirx.com/" target="_blank" rel="noreferrer">
           WazirX

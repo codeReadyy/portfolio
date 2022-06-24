@@ -135,26 +135,26 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Shailendra and I enjoy playing with my sweet little daughter. I
-              prefer CryptoBee as my alias in Crypto space. My interest in web development started
-              back in 2013 when I edited few charts using highcharts and then I realize the power of
+              Hello! My name is Shailendra, and I enjoy playing with my sweet little daughter. I
+              prefer CryptoBee as my alias in the crypto space. My interest in web development
+              started in 2013 when I edited a few charts using highcharts and realised the power of
               Javascript!
             </p>
 
             <p>
-              Back in 2017, I taught few under privileged kids for one whole year being a Valunteer
-              at <a href="https://makeadiff.in/">Make a difference</a> there I have realised that
-              fulfilling a kid’s wish is one of the most joyous feeling you can ever get. If you
-              want to feel the same, join <a href="https://makeadiff.in/joinus/">MAD</a> community
-              its <b>#NeverToLate</b> to make a difference.
+              Back in 2017, I taught a few underprivileged kids for one whole year. Being a
+              Volunteer at <a href="https://makeadiff.in/">Make a difference</a>, I have realised
+              that fulfilling a kid’s wish is one of the most joyous feelings you can ever get. If
+              you want to feel the same, join <a href="https://makeadiff.in/joinus/">MAD</a>{' '}
+              community, it's <b>#NeverToLate</b> to make a difference.
             </p>
 
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
               <a href="https://www.emtecinc.com/">an IT strategy and consulting firm</a>,{' '}
               <a href="https://baxterplanning.com/">a supply chain service provider</a>,{' '}
-              <a href="https://www.db.com/">a leading german bank</a>, and{' '}
-              <a href="https://www.morganstanley.com/">a gloabl investment bank</a>. My main focus
+              <a href="https://www.db.com/">a leading German bank</a>, and{' '}
+              <a href="https://www.morganstanley.com/">a Gloabl investment bank</a>. My main focus
               these days is building India's biggest crypto exchange at{' '}
               <a href="https://www.wazirx.com/">WazirX</a>.
             </p>

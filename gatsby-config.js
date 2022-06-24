@@ -5,8 +5,8 @@ module.exports = {
     title: 'Shailendra',
     description:
       'Shailendra is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
-    siteUrl: 'https://shailendra.dev', // No trailing slash allowed!
-    image: '/og.png', // Path to your image you placed in the 'static' folder
+    siteUrl: 'https://shailendrasahu.com', // No trailing slash allowed!
+    image: '/me.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@_shail2302_',
   },
   plugins: [
@@ -20,8 +20,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'BrittanyChiang',
-        short_name: 'BrittanyChiang',
+        name: 'ShailendraSahu',
+        short_name: 'ShailendraSahu',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
