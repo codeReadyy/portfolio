@@ -3,7 +3,7 @@ date: '2021-08-01'
 title: 'SDE IV'
 company: 'WazirX'
 location: 'Home office'
-range: 'August 2021 - Present'
+range: 'August 2021 - July 2022'
 url: 'https://wazirx.com/'
 ---
 

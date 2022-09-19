@@ -66,10 +66,11 @@ const Hero = () => {
     <>
       <p>
         I’m a software engineer and crypto enthusiast specialising in building exceptional user
-        experiences. Currently, I’m focused on building India's biggest crypto exchange at{' '}
+        experiences. Currently, I’m focused on building a dApp for NFT community
+        {/* at{' '}
         <a href="https://wazirx.com/" target="_blank" rel="noreferrer">
           WazirX
-        </a>
+        </a> */}
         .
       </p>
     </>

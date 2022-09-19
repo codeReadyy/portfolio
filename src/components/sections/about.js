@@ -136,8 +136,8 @@ const About = () => {
           <div>
             <p>
               Hello! My name is Shailendra, and I enjoy playing with my sweet little daughter. I
-              prefer CryptoBee as my alias in the crypto space. My interest in web development
-              started in 2013 when I edited a few charts using highcharts and realised the power of
+              prefer Shail as my alias in the crypto space. My interest in web development started
+              in 2013 when I edited a few charts using highcharts and realised the power of
               Javascript!
             </p>
 
@@ -153,10 +153,9 @@ const About = () => {
               Fast-forward to today, and I’ve had the privilege of working at{' '}
               <a href="https://www.emtecinc.com/">an IT strategy and consulting firm</a>,{' '}
               <a href="https://baxterplanning.com/">a supply chain service provider</a>,{' '}
-              <a href="https://www.db.com/">a leading German bank</a>, and{' '}
-              <a href="https://www.morganstanley.com/">a Gloabl investment bank</a>. My main focus
-              these days is building India's biggest crypto exchange at{' '}
-              <a href="https://www.wazirx.com/">WazirX</a>.
+              <a href="https://www.db.com/">a leading German bank</a>,{' '}
+              <a href="https://www.morganstanley.com/">a Gloabl investment bank</a>, and India's
+              biggest crypto exchange at <a href="https://www.wazirx.com/">WazirX</a>.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
